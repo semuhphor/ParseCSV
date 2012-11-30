@@ -1,0 +1,5 @@
+C:\Development\ParseCSV\CSVFixer\CountLines\bin\Debug\CountLines.exe
+C:\Development\ParseCSV\CSVFixer\CountLines\bin\Debug\CountLines.pdb
+C:\Development\ParseCSV\CSVFixer\CountLines\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\ParseCSV\CSVFixer\CountLines\obj\x86\Debug\CountLines.exe
+C:\Development\ParseCSV\CSVFixer\CountLines\obj\x86\Debug\CountLines.pdb

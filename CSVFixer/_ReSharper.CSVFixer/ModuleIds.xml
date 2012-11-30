@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="35EAA9DA-043A-40A6-A8B4-79446195D0B6" ModuleId="CSVParser" />
+  <Module PersistentId="44161D53-26CD-4B8E-9D14-618FBA802BB7" ModuleId="UnitTests.CSVParserTests" />
+  <Module PersistentId="65E207AB-2D7A-44B5-A302-646F93C38E59" ModuleId="FixCSV" />
+  <Module PersistentId="51ACAE8D-BC1E-4F10-A989-2DF6699F6ACD" ModuleId="CountLines" />
+</Modules>

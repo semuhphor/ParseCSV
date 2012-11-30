@@ -1,0 +1,7 @@
+C:\Development\ParseCSV\CSVFixer\FixCSV\bin\Debug\FixCSV.exe
+C:\Development\ParseCSV\CSVFixer\FixCSV\bin\Debug\FixCSV.pdb
+C:\Development\ParseCSV\CSVFixer\FixCSV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\ParseCSV\CSVFixer\FixCSV\obj\x86\Debug\FixCSV.exe
+C:\Development\ParseCSV\CSVFixer\FixCSV\obj\x86\Debug\FixCSV.pdb
+C:\Development\ParseCSV\CSVFixer\FixCSV\bin\Debug\CSVParser.dll
+C:\Development\ParseCSV\CSVFixer\FixCSV\bin\Debug\CSVParser.pdb
